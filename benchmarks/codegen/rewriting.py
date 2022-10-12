@@ -6,7 +6,7 @@ Numerical methods for scientists and engineers. Courier Corporation.
 
 """
 
-from sympy import atan, cos, sin, sqrt
+from sympy import atan, cos, exp, log, sin, sqrt, tan
 
 
 # Problem 1
